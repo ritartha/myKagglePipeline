@@ -3,25 +3,7 @@
 
 A low dependency and really simple to start project template for Python Projects.
 
-See also 
-- [Flask-Project-Template](https://github.com/rochacbruno/flask-project-template/) for a full feature Flask project including database, API, admin interface, etc.
-- [FastAPI-Project-Template](https://github.com/rochacbruno/fastapi-project-template/) The base to start an openapi project featuring: SQLModel, Typer, FastAPI, JWT Token Auth, Interactive Shell, Management Commands.
 
-### HOW TO USE THIS TEMPLATE
-
-> **DO NOT FORK** this is meant to be used from **[Use this template](https://github.com/rochacbruno/python-project-template/generate)** feature.
-
-1. Click on **[Use this template](https://github.com/rochacbruno/python-project-template/generate)**
-3. Give a name to your project  
-   (e.g. `my_awesome_project` recommendation is to use all lowercase and underscores separation for repo names.)
-3. Wait until the first run of CI finishes  
-   (Github Actions will process the template and commit to your new repo)
-4. If you want [codecov](https://about.codecov.io/sign-up/) Reports and Automatic Release to [PyPI](https://pypi.org)  
-  On the new repository `settings->secrets` add your `PYPI_API_TOKEN` and `CODECOV_TOKEN` (get the tokens on respective websites)
-4. Read the file [CONTRIBUTING.md](CONTRIBUTING.md)
-5. Then clone your new project and happy coding!
-
-> **NOTE**: **WAIT** until first CI run on github actions before cloning your new project.
 
 ### What is included on this template?
 
@@ -46,7 +28,6 @@ See also
 > Curious about architectural decisions on this template? read [ABOUT_THIS_TEMPLATE.md](ABOUT_THIS_TEMPLATE.md)  
 > If you want to contribute to this template please open an [issue](https://github.com/rochacbruno/python-project-template/issues) or fork and send a PULL REQUEST.
 
-[❤️ Sponsor this project](https://github.com/sponsors/rochacbruno/)
 
 <!--  DELETE THE LINES ABOVE THIS AND WRITE YOUR PROJECT README BELOW -->
 
@@ -56,7 +37,7 @@ See also
 [![codecov](https://codecov.io/gh/ritartha/myKagglePipeline/branch/main/graph/badge.svg?token=myKagglePipeline_token_here)](https://codecov.io/gh/ritartha/myKagglePipeline)
 [![CI](https://github.com/ritartha/myKagglePipeline/actions/workflows/main.yml/badge.svg)](https://github.com/ritartha/myKagglePipeline/actions/workflows/main.yml)
 
-Awesome mykagglepipeline created by ritartha
+mykagglepipeline created by ritartha
 
 ## Install it from PyPI
 
